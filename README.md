@@ -18,9 +18,10 @@ https://youtu.be/1fzutku-eMc
 # Refrences 
 To ensure clarity and proficiency in fulfilling the assignment requirements, I diligently referred to the provided manual, utilizing it as a comprehensive guide to understand the task at hand and effectively program the desired functionalities. Additionally, I leveraged various online resources and links to gather detailed information about the famous figures required for the application. These resources proved invaluable in acquiring comprehensive insights into the lives, achievements, and backgrounds of the historical figures, enabling me to provide users with accurate and engaging content. By combining the guidance from the manual with the wealth of information obtained from online sources, I was able to program the application with confidence, ensuring that it meets the intended objectives and delivers a captivating user experience.
 
-https://www.vanityfair.com/hollywood/photos/2022/12/33-of-the-biggest-celebrities-who-died-in-2022 
+( MATTHEW JACOBS DECEMBER 21, 2022) https://www.vanityfair.com/hollywood/photos/2022/12/33-of-the-biggest-celebrities-who-died-in-2022 
 
  https://www.thefamouspeople.com/died-2020.php
  
  https://www.famousbirthdays.com/
  
+The independent institute of Education (2024)
